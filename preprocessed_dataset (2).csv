@@ -1,0 +1,322 @@
+Age,Gender,Protein1,Protein2,Protein3,Protein4,Tumour_Stage,Histology,ER status,PR status,HER2 status,Surgery_type,Date_of_Surgery,Date_of_Last_Visit,Patient_Status
+42,FEMALE,0.828516398,0.714170279,0.428018111,0.540887454,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,20-05-2018,26-08-2018,Alive
+54,FEMALE,0.573698572,0.538454164,0.295584694,0.415325272,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,26-04-2018,25-01-2019,Dead
+63,FEMALE,0.433783639,0.626061133,0.329043656,0.557070362,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,24-08-2018,08-04-2020,Alive
+78,FEMALE,0.339313038,0.252950857,0.328993928,0.590274662,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,16-11-2018,28-07-2020,Alive
+42,FEMALE,0.634184902,0.622660029,0.283561034,0.447362806,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,12-12-2018,05-01-2019,Alive
+80,FEMALE,0.698483227,0.812254476,0.097806742,0.5955682,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,25-06-2018,16-02-2019,Alive
+66,FEMALE,0.379792413,0.158833855,0.67703884,0.650106691,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,27-10-2018,19-06-2019,Alive
+36,FEMALE,0.699242951,0.577806539,0.382684255,0.478609728,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,19-07-2018,30-06-2019,Alive
+58,FEMALE,0.234364132,0.247632352,0.723042295,0.446074301,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,15-06-2018,16-12-2019,Alive
+51,FEMALE,0.47079878,0.407406647,0,0.413796028,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,26-11-2018,28-12-2019,Alive
+40,FEMALE,0.422369055,0.512569249,0.349125838,0.607170214,II,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,14-02-2017,15-12-2017,Alive
+77,FEMALE,0.518570435,0.35523051,0.360877303,0.554111725,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,27-03-2018,23-03-2020,Alive
+54,FEMALE,0.462131507,0.51316273,0.235707182,0.327676862,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,08-08-2018,29-08-2018,Alive
+77,FEMALE,0.530471885,0.554546637,0.227434045,0.754418121,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,09-06-2018,28-08-2018,Alive
+77,FEMALE,0.558142689,0.377328558,0.315214091,0.599942551,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,16-05-2018,29-08-2018,Alive
+45,FEMALE,0.432986464,0.387381218,0.249010678,0.325611424,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,10-05-2018,25-10-2018,Alive
+63,FEMALE,0.587803756,0.388234918,0.34515023,0.40876785,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,15-05-2019,26-12-2019,Dead
+61,FEMALE,0.17586004,0.303077201,0.252559673,0.60479838,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,15-02-2018,15-08-2019,Alive
+39,FEMALE,0.721654807,0.678903794,0.388667295,0.26183181,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,15-07-2018,01-06-2019,Alive
+37,FEMALE,0.266946659,0.442775849,0.498071085,0.621395743,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,14-02-2019,09-05-2020,Alive
+63,FEMALE,0.815296132,0.672580936,0.218961997,0.817461837,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,21-01-2019,06-03-2020,Dead
+81,FEMALE,0.794055963,0.646399281,0.216062081,0.336863271,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,05-02-2018,06-10-2019,Alive
+70,FEMALE,0.761032048,0.445613146,0.348343279,0.582975871,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,29-07-2018,04-11-2022,Alive
+76,FEMALE,0.585347493,0.13171176,0.548118195,0.840756142,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,27-03-2018,06-02-2019,Alive
+65,FEMALE,0.573158017,0.409216764,0.339156721,0.536969142,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,05-05-2019,02-04-2020,Dead
+68,FEMALE,0.46238029,0.396527678,0.541069933,0.609336871,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,14-02-2019,03-02-2020,Dead
+53,FEMALE,0.48078487,0.545119415,0.327549204,0.541888713,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11-01-2019,15-07-2019,Alive
+62,FEMALE,0.695923172,0.392192982,0.260581554,0.53767139,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,20-02-2019,18-04-2019,Alive
+39,FEMALE,0.5341314,0.513596428,0.480713463,0.424741478,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,04-06-2019,29-01-2020,Alive
+57,FEMALE,0.587804023,0.568402143,0.626732621,0.604910543,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,01-03-2018,06-02-2020,Alive
+47,FEMALE,0.662473918,0.148616846,0.426816007,0.873037151,II,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,27-11-2017,10-04-2018,Dead
+56,FEMALE,0.324230913,0.383719895,0.269103329,0.034524265,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,21-03-2018,06-07-2018,Dead
+76,FEMALE,0.508354288,0.434677112,0.316470373,0.535550692,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,11-11-2019,05-01-2021,Dead
+40,FEMALE,0.710604034,0.437030494,0.469056219,0.408239864,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,24-07-2017,17-10-2017,Alive
+46,FEMALE,0.612441817,0.049683515,0.617894158,0.779487881,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,28-08-2018,27-09-2018,Alive
+50,FEMALE,0.608330212,0.110942197,0.508644786,0.399868687,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,13-09-2018,03-08-2019,Alive
+50,FEMALE,0.663723182,0.371822878,0.223890285,0.666367566,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,18-08-2018,05-01-2019,Dead
+48,FEMALE,0.515970253,0.156439386,0.653033396,0.487897357,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,11-11-2017,06-08-2018,Dead
+50,FEMALE,0.552360762,0.822115396,0.438936087,0.543341632,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,27-12-2017,16-05-2018,Alive
+75,FEMALE,0.619613718,0.230176241,0.384343593,0.738690704,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,24-02-2017,05-04-2017,Alive
+53,FEMALE,0.549766465,0.459224411,0.300845373,0.484890846,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,02-09-2019,10-12-2020,Alive
+62,FEMALE,0.59143759,0.519097543,0.491679753,0.469056738,I,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,04-07-2019,26-06-2020,Alive
+57,FEMALE,0.625769087,0.604102325,0.528891855,0.746520217,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,24-02-2019,19-05-2020,Dead
+59,FEMALE,0.702222995,0.367520138,0.242462312,0.509785523,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,05-07-2018,25-09-2020,Alive
+46,FEMALE,0.574762372,0.498188741,0.317708333,0.698851015,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,04-07-2019,21-04-2020,Alive
+47,FEMALE,0.476922048,0.477622331,0.507943363,0.397124802,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,25-01-2019,25-02-2020,Alive
+51,MALE,0.797841207,0.339003362,0.283257433,0.640258248,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,30-05-2018,25-03-2020,Alive
+68,FEMALE,0.542311808,0.597733815,0.351784966,0.472755376,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,12-10-2017,02-09-2018,Alive
+89,FEMALE,0.506880317,0.143211601,0.399857621,0.761569185,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,24-06-2017,24-07-2017,Alive
+63,FEMALE,0.62096731,0.32474155,0.360304125,0.451778191,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,27-10-2018,13-07-2019,Alive
+65,FEMALE,0.429209245,0.817869722,0.245856889,0.55497412,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,19-02-2018,24-08-2019,Alive
+82,FEMALE,0.75014713,0.578148932,0.209055695,0.630314056,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,25-04-2019,23-01-2020,Alive
+45,FEMALE,0.620849607,0.358862159,0.293100921,0.66370575,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,23-09-2018,07-02-2020,Dead
+62,FEMALE,0.470857632,0.452581986,0.258801822,0.405110248,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,25-05-2019,06-08-2019,Alive
+59,FEMALE,0.464151196,0.231981109,0.482935511,0.541892816,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,02-09-2019,28-09-2020,Alive
+55,FEMALE,0.396228131,0.66582438,0.222997802,0.48198282,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,15-02-2018,23-03-2020,Alive
+63,FEMALE,0.56373308,0.472372305,0.315009946,0.47057504,I,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,05-05-2019,26-02-2020,Alive
+60,FEMALE,0.378251565,0.329886577,0.296393425,0.494731083,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,15-05-2019,19-03-2021,Alive
+79,FEMALE,0.768936922,0.583193523,0.383770415,0.48426164,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,25-02-2018,15-10-2020,Alive
+66,FEMALE,0.706353325,0.649366687,0.437469378,0.620427313,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,31-05-2019,08-11-2019,Alive
+46,FEMALE,0.635527794,0.423592707,0.43100581,0.790299283,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,05-02-2018,09-08-2019,Alive
+63,FEMALE,0.442852175,0.427441205,0.302719326,0.497805986,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,20-05-2018,20-06-2019,Alive
+61,FEMALE,0.512738751,0.632178556,0.228012458,0.75648903,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,25-04-2017,26-06-2022,Alive
+49,FEMALE,0.496896902,0.37300071,0.39999398,0.297368277,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,28-08-2018,25-10-2019,Alive
+83,FEMALE,0,0.182442997,0.373500314,0.146823877,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Other,05-06-2018,05-07-2020,Alive
+46,FEMALE,0.778561875,0.343027622,0.384796378,0.593478142,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,26-12-2018,15-02-2021,Alive
+63,FEMALE,0.627946605,0.213503982,0.628779313,0.723753898,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,24-07-2019,07-10-2019,Alive
+53,FEMALE,0.555097373,0.547150947,0.331435825,0.661235433,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,04-02-2017,07-02-2018,Alive
+45,FEMALE,0.38333155,0.609717571,0.216352596,0.771434043,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,31-05-2019,22-08-2020,Alive
+41,FEMALE,0.753648815,0.078850838,0.428218174,0.706116978,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,29-06-2018,15-11-2020,Alive
+66,FEMALE,0.214140495,0.480886478,0.365905046,0.491210264,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,02-09-2019,10-01-2021,Alive
+69,FEMALE,0.442878926,0.766305328,0.303682475,0.580732615,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,05-05-2019,08-08-2020,Alive
+50,FEMALE,0.531319887,0.714512672,0.202523032,0.702749357,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,09-07-2018,19-04-2020,Dead
+60,FEMALE,0.641343427,0.74765632,0.565284757,0.566775455,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,14-07-2019,12-10-2020,Alive
+59,FEMALE,0.647640576,0.023421967,0.765651173,0.366269081,II,Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,16-11-2018,22-08-2020,Alive
+77,FEMALE,0.493793805,0.186590518,0.546513819,0.445598293,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,17-11-2017,15-08-2018,Alive
+51,FEMALE,0.446311059,0.633045951,0.387267064,0.469913005,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,20-06-2019,26-01-2021,Alive
+57,FEMALE,0.607682842,0.109821431,0.681587626,0.724946654,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,02-09-2017,12-08-2018,Alive
+29,FEMALE,0.574183966,0.427208378,0.248324958,0.505326366,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,09-06-2018,15-06-2018,Alive
+46,FEMALE,0.375704885,0.055052238,0.614457705,0.751578487,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,01-11-2019,22-01-2021,Alive
+70,FEMALE,0.859237066,0.451013826,0.272503141,0.687125896,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,31-03-2018,16-11-2019,Alive
+64,FEMALE,0.481523193,0.403761302,0.303216604,0.42948241,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,06-12-2018,19-03-2020,Alive
+58,FEMALE,0.668503558,0.573218472,0.277536118,0.682986814,II,Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,05-07-2018,22-06-2019,Alive
+59,FEMALE,0.648667808,0.428605342,0.266271461,0.700246211,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,06-01-2018,10-01-2018,Alive
+46,FEMALE,0.634340057,0.663906979,0.339237856,0.391226678,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,19-06-2018,27-08-2020,Alive
+71,FEMALE,0.31999358,0.392437222,0.358330716,0.495743284,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,16-01-2018,23-01-2019,Alive
+41,FEMALE,0.591012519,0.396751375,0.499604795,0.08557203,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,16-12-2018,24-01-2021,Alive
+50,FEMALE,0.506759938,0.29713554,0.291467755,0.332300159,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,02-03-2019,24-09-2026,Alive
+74,FEMALE,0.732740356,0.439943117,0.295503559,0.819945834,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,05-05-2017,21-06-2017,Alive
+53,FEMALE,0.723615644,0.411154709,0.285971524,0.626681075,II,Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,18-10-2017,28-04-2020,Alive
+52,FEMALE,0.783473329,0.74699436,0.311133794,0.541027247,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,17-10-2018,18-02-2019,Alive
+76,FEMALE,0.530755444,0.09923692,0.63151696,0.724268206,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,16-04-2018,19-10-2020,Alive
+79,FEMALE,0.564007009,0.404991634,0.422391907,1,II,Mucinous Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,17-11-2017,11-01-2018,Dead
+46,FEMALE,0.425996469,0.69901368,0.53482255,0.333093505,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,27-12-2017,02-12-2018,Dead
+67,FEMALE,0.371796587,0.439737681,0.214520519,0.611347595,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,06-04-2018,09-10-2020,Dead
+75,FEMALE,0.046412712,0.079152143,0.435650649,0.426396564,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,01-03-2018,01-06-2019,Alive
+48,FEMALE,0.634760045,0.49987788,0.304684883,0.405011763,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,08-08-2018,23-10-2018,Alive
+59,FEMALE,0.765039324,0.723574675,0.528418132,0.814542868,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,10-06-2019,22-09-2019,Alive
+66,FEMALE,0.474605425,0.661327618,0.217577471,0.536903485,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,22-09-2019,08-09-2020,Alive
+59,FEMALE,0.669771548,0.493943067,0.315093698,0.667899546,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,03-08-2017,18-03-2018,Alive
+68,FEMALE,0.419413087,0.526447581,0.447196137,0.444914373,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,06-12-2018,16-12-2018,Dead
+36,FEMALE,0.595193676,0.320733269,0.569134736,0.62898178,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,15-01-2017,19-06-2017,Alive
+69,FEMALE,0.370983361,0.146299987,0.572866939,0.611095913,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,07-10-2018,03-02-2021,Dead
+49,FEMALE,0.590188593,0.523548653,0.399927502,0.760494064,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,15-05-2017,01-11-2017,Alive
+56,FEMALE,0.556309989,0.107331092,0.561929439,0.76725119,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,12-11-2018,12-07-2019,Dead
+54,FEMALE,0.244315446,0.048176985,0.651434255,0.619508125,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,22-09-2019,15-02-2021,Alive
+56,FEMALE,0.489502969,0.131962848,0.62361809,0.579348088,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,26-03-2019,23-08-2019,Alive
+39,FEMALE,0.519268632,0.473970139,0.413767797,0.541761777,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,29-06-2018,26-10-2020,Alive
+57,FEMALE,0.669145578,0.584791357,0.303685092,0.838239317,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,15-04-2019,11-03-2020,Alive
+46,FEMALE,0.558975978,0.107808159,0.658286223,0.529648192,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,22-10-2019,09-02-2021,Dead
+59,FEMALE,0.61395859,0.512706206,0.594129502,0.625627838,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,12-10-2019,01-02-2021,Alive
+61,FEMALE,0.751963512,0.723118151,0.137562814,0.326653718,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,19-02-2018,23-11-2018,Alive
+63,FEMALE,0.412326788,0.47883212,0.267370708,0.394364502,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,06-03-2019,15-05-2019,Alive
+49,FEMALE,0.53506768,0.753887873,0.240776801,0.750793347,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,20-07-2019,27-02-2020,Alive
+88,FEMALE,0.412297362,0.538979167,0.531556219,0.627758932,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,04-06-2019,03-02-2021,Dead
+74,FEMALE,0.502653684,0.513185556,0.525604585,0.552137276,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,14-06-2019,20-06-2019,Alive
+59,FEMALE,0.44873736,0.731677977,0.370587312,0.487558133,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,10-01-2018,15-03-2018,Alive
+43,FEMALE,0.46125943,0.355358337,0.586754083,0.545492969,II,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,26-04-2017,09-11-2018,Dead
+67,FEMALE,0.577648868,0.361268041,0.44334642,0.320471084,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,10-02-2019,11-11-2019,Alive
+60,FEMALE,0.630402333,0.572054335,0.318757852,0.554379154,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,07-03-2018,14-10-2020,Alive
+61,FEMALE,0.676170349,0.601089266,0.575902952,0.64937353,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,16-03-2019,16-11-2019,Alive
+85,FEMALE,0.681729174,0.334855841,0.646071503,0.72275264,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,26-05-2018,15-08-2018,Alive
+65,FEMALE,0.455128137,0.362544026,0.32153214,0.644966351,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,16-03-2019,13-10-2020,Dead
+80,FEMALE,0.490669306,0.730148621,0.280323492,0.697384691,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,15-04-2019,15-05-2020,Alive
+78,FEMALE,0.328331817,0.075737343,0.570558522,0.679608251,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,22-10-2019,24-03-2021,Alive
+72,FEMALE,0.460547857,0.31089974,0.535068572,0.529978115,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,26-01-2018,03-05-2026,Dead
+43,FEMALE,0.736512225,0.614762162,0.465112018,0.479170542,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,25-05-2019,18-05-2020,Alive
+52,FEMALE,0.692793323,0.410440249,0.311120708,0.551951551,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,11-05-2019,14-11-2023,Alive
+54,FEMALE,0.599543631,0.08581283,0.550957915,0.813071073,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,26-04-2018,09-01-2020,Alive
+87,FEMALE,0.550295597,0.47702885,0.277554439,0.88887673,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,07-11-2017,28-11-2017,Alive
+51,FEMALE,0.575955888,0.54340745,0.457757538,0,II,Mucinous Carcinoma,Positive,Positive,Negative,Simple Mastectomy,22-10-2017,26-08-2019,Alive
+83,FEMALE,0.46857311,0.560253188,0.463562605,0.729460524,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,17-09-2018,21-02-2019,Alive
+35,FEMALE,0.355002408,0.632087251,0.153318677,0.564650107,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,17-10-2018,17-10-2019,Alive
+60,FEMALE,0.546800599,0.53649111,0.198581449,0.565194233,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,03-10-2018,30-10-2019,Alive
+52,FEMALE,0.695556685,0.534938928,0.284911537,0.593576626,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,05-04-2019,30-12-2020,Alive
+68,FEMALE,0.480172275,0.536924808,0.36218593,0.605553428,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,06-01-2018,10-02-2018,Alive
+36,FEMALE,0.635707025,0.364481971,0.279943991,0.412581386,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,11-11-2019,09-02-2020,Dead
+75,FEMALE,0.709756032,0.840992666,0.338533815,0.660269738,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,23-08-2019,27-06-2020,Alive
+60,FEMALE,0.629506179,0.095345052,0.750078518,0.81859988,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,25-01-2019,06-02-2019,Dead
+45,FEMALE,0.687491306,0.511656201,0.2375,0.235651365,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,16-01-2018,10-02-2020,Alive
+44,MALE,0.769707346,0.477165807,0.355391541,0.457017016,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,01-11-2019,04-03-2020,Dead
+80,FEMALE,0.568906426,0.434343849,0.418604481,0.627972315,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,13-10-2018,10-04-2020,Alive
+46,FEMALE,0.401776256,0.233764064,0.372471734,0.734149477,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,25-07-2018,11-12-2018,Alive
+61,FEMALE,0.381234284,0.8051327,0.386610134,0.64703726,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,11-11-2019,18-01-2021,Dead
+56,FEMALE,0.512564871,0.522475821,0.271186662,0.577779176,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,14-06-2017,12-09-2020,Alive
+56,FEMALE,0.850623295,0.62619809,0.227227282,0.820914264,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,07-12-2017,25-06-2018,Alive
+74,FEMALE,0.517302445,0,0.148502931,0.323625321,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,21-04-2019,25-07-2020,Alive
+45,FEMALE,0.499312503,0.549616177,0.274405884,0.615018876,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,06-03-2019,10-09-2020,Dead
+60,FEMALE,0.599000856,0.451737416,0.366847257,0.567407671,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,01-11-2019,28-02-2021,Dead
+71,FEMALE,0.757522337,0.307599071,0.630975188,0.812135471,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,23-08-2019,10-05-2020,Alive
+54,FEMALE,0.416839655,0.568904319,0.703857831,0.581807736,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,05-01-2019,08-02-2021,Alive
+51,FEMALE,0.72682307,0.681962506,0.116441583,0.63353395,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,26-12-2018,07-01-2021,Alive
+37,FEMALE,0.652586806,0.534413926,0.607145101,0.666280024,II,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,15-06-2017,24-10-2018,Alive
+79,FEMALE,0.289551121,0.489651741,0.254331554,0.528839252,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,02-10-2019,27-04-2020,Alive
+62,FEMALE,0.718795142,0.632589427,0.277797843,0.549404716,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,05-04-2017,20-06-2017,Alive
+71,FEMALE,0.607827297,0.408374478,0.560314594,0.525939706,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,14-08-2018,15-01-2020,Alive
+47,FEMALE,0.520681076,0.366292089,0.352290096,0.42341741,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,10-07-2019,15-01-2020,Alive
+50,FEMALE,0.55707212,0.591365304,0.301863484,0.54195218,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,15-04-2017,25-01-2018,Alive
+59,FEMALE,0.626563587,0.468080978,0.372251884,0.727321223,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,28-10-2017,22-07-2018,Alive
+72,FEMALE,0.685327163,0.498942005,0.213395101,0.810037205,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,04-02-2019,16-02-2021,Alive
+61,FEMALE,0.465111551,0.851424241,0.270095268,0.7774498,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,12-09-2019,05-01-2021,Alive
+62,FEMALE,0.673626344,0.402163468,0.275583647,0.29054823,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,14-08-2018,06-12-2020,Alive
+32,FEMALE,0.607257504,0.555870557,0.247880025,0.551272638,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,02-11-2018,23-04-2019,Dead
+53,FEMALE,0.405756781,0.282987859,0.372487437,0.197023582,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Simple Mastectomy,21-05-2019,25-05-2020,Alive
+62,FEMALE,0.78396287,0.407945345,0.536455716,0.514767194,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,06-11-2018,26-05-2019,Alive
+52,FEMALE,0.123535391,0.38940362,0.440790672,0.213765935,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,05-06-2017,02-03-2020,Alive
+44,FEMALE,0.812275962,0.324846551,0.454773869,0.597020846,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,22-09-2019,31-05-2020,Alive
+85,FEMALE,0.682181264,0.299062071,0.3585558,0.374990425,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,06-11-2018,17-01-2021,Alive
+54,FEMALE,0.689968434,0.783151066,0.5133192,0.726188652,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,16-12-2018,26-09-2020,Dead
+63,FEMALE,0.35110481,0.16977902,0.592993614,0.562541719,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,03-09-2018,14-03-2022,Alive
+63,FEMALE,0.424008881,0.333988445,0.447145886,0.720941621,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Other,07-10-2018,01-11-2020,Alive
+63,FEMALE,0.58698197,0.554158592,0.42019263,0.671434043,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,15-05-2019,03-02-2021,Alive
+59,FEMALE,0.485300412,0.551031402,0.266802764,0.458171472,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,27-11-2017,24-05-2018,Alive
+84,FEMALE,0.61380076,0.564042338,0.182050879,0.54777644,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,26-01-2018,12-03-2018,Dead
+43,FEMALE,0.692153978,0.546260725,0.181867672,0.587393992,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,27-10-2018,17-12-2018,Alive
+69,FEMALE,0.630940025,0.522749736,0.34022456,0.490025715,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,08-09-2017,09-06-2018,Alive
+79,FEMALE,0.701942111,0.692690821,0.28686139,0.502549653,I,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,21-11-2019,19-02-2021,Dead
+56,FEMALE,0.632965063,0.658656952,0.562146671,0.468761285,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,06-05-2017,27-06-2019,Dead
+84,FEMALE,0.797881333,0.687509273,0.260610343,0.708855392,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,15-04-2019,14-04-2020,Alive
+64,FEMALE,0.684990102,0.590771822,0.289981156,0.811995951,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,16-12-2018,19-04-2019,Alive
+44,FEMALE,0.637678562,0.326786778,0.436442106,0.448845544,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,04-07-2017,05-02-2021,Alive
+56,FEMALE,0.416828955,0.274642599,0.345707705,0.117360617,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,06-11-2018,27-10-2020,Alive
+74,FEMALE,0.565234605,0.743981301,0.428176089,0.406929474,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,06-04-2018,17-11-2020,Alive
+68,FEMALE,0.687675887,0.305569822,0.335476863,0.532188817,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,24-06-2019,09-02-2020,Alive
+58,FEMALE,0.669397036,0.570114108,0.345566374,0.673455709,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,31-03-2018,03-10-2018,Dead
+48,FEMALE,0.471716334,0.115082871,0.574403266,0.470142802,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,19-06-2018,25-06-2019,Alive
+54,FEMALE,0.66109625,0.156071884,0.888949958,0.764996991,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,22-11-2018,11-04-2019,Alive
+68,MALE,0.967042962,0.330461797,0.461405988,0.474820813,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,25-04-2019,18-04-2020,Alive
+61,FEMALE,0.624075758,0.187544654,0.279407454,0.390039394,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,24-07-2019,03-06-2020,Alive
+49,FEMALE,0.556445081,0.024517625,0.653318677,0.640728785,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,06-11-2018,12-03-2019,Alive
+53,FEMALE,0.650494891,1,0.339954983,0.613254363,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,03-08-2019,16-08-2020,Alive
+76,FEMALE,0.508121556,0.36357577,0.459042609,0.661115063,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,27-10-2018,20-02-2020,Alive
+61,FEMALE,0.370713177,0.237510529,0.371916876,0.214641353,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,22-12-2018,26-11-2019,Alive
+47,FEMALE,0.729169119,0.438705937,0.366538421,0.654472835,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,13-09-2018,27-01-2021,Dead
+56,FEMALE,0.660906319,0.648019941,0.144027429,0.646205614,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,26-12-2018,29-06-2019,Dead
+48,FEMALE,0.66222246,0.625695914,0.472058208,0.77003064,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,25-04-2019,03-02-2021,Alive
+74,FEMALE,0.507856722,0.564727124,0.347796273,0.734461345,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,25-06-2017,23-12-2019,Alive
+87,FEMALE,0.763297844,0.719443132,0.310858982,0.446722657,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,25-05-2017,15-01-2018,Dead
+47,FEMALE,0.652581456,0.543818322,0.489871231,0.445811676,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Lumpectomy,16-11-2018,28-01-2021,Alive
+82,FEMALE,0.312412391,0.109367189,0.598131281,0.357731028,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,06-05-2018,22-05-2020,Dead
+47,FEMALE,0.711620566,0.828346949,0.398940013,0.541602834,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,29-07-2018,03-02-2021,Dead
+48,FEMALE,0.482743031,0.260515461,0.37955402,0.666972151,II,Mucinous Carcinoma,Positive,Positive,Negative,Simple Mastectomy,15-01-2019,02-12-2020,Alive
+56,FEMALE,0.504815152,0.407593821,0.292669075,0.54465038,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,02-10-2017,26-07-2020,Alive
+62,FEMALE,0.647271414,0.424551408,0.291480842,0.547659627,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,24-06-2019,15-01-2020,Alive
+62,FEMALE,0.601690653,0.383829461,0.347681114,0.718534223,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,16-03-2017,20-10-2019,Dead
+51,FEMALE,0.345816168,0.605974074,0.871362018,0.532691908,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,11-03-2018,11-06-2019,Dead
+85,FEMALE,0.773045851,0.624531777,0.162583752,0.537221645,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,14-07-2017,27-08-2018,Alive
+50,FEMALE,0.385896956,0.269760074,0.568320771,0.54758166,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,16-03-2019,04-05-2021,Dead
+63,FEMALE,0.674969237,0.564476036,0.455650649,0.762373475,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,12-09-2017,04-05-2018,Alive
+52,FEMALE,0.627336686,0.721976841,0.254234715,0.776060076,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,13-08-2019,20-02-2020,Alive
+68,FEMALE,0.558943609,0.119426697,0.468655779,0.353009247,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,13-08-2019,29-01-2020,Alive
+40,FEMALE,0.765453962,0.451760243,0.461230632,0.38508508,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,30-06-2019,21-10-2019,Alive
+54,FEMALE,0.498068589,0.36228609,0.301866101,0.722949609,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,17-03-2018,23-06-2019,Alive
+59,FEMALE,0.694692633,0.542037878,0.365515075,0.771956557,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,12-10-2019,19-01-2021,Alive
+77,FEMALE,0.701490022,0.41031014,0.319592755,0.374982218,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,16-12-2018,14-02-2021,Alive
+65,FEMALE,0.454737574,0.564567341,0.136097152,0.485038573,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,10-04-2018,08-11-2019,Alive
+68,FEMALE,0.504146381,0.419812688,0.446014447,0.605186847,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,25-06-2018,23-12-2020,Dead
+38,FEMALE,0.501885934,0.267952238,0.157741834,0.581939049,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,30-04-2018,07-11-2018,Alive
+64,FEMALE,0.314228773,0.047814049,0.571660385,0.357101822,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,03-10-2018,26-10-2018,Dead
+45,FEMALE,0.449553261,0.418198876,0.490771566,0.404377086,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,17-10-2018,29-10-2020,Alive
+45,FEMALE,0.432702905,0.396091697,0.279150963,0.416591891,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,21-12-2017,23-03-2018,Alive
+73,FEMALE,0.515218554,0.441166602,0.510858982,0.335303934,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,30-05-2018,30-06-2019,Alive
+78,FEMALE,0.629803114,0.380184116,0.45712678,0.722137112,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,25-02-2018,11-03-2018,Alive
+54,FEMALE,0.783213846,0.031347225,0.820351759,0.777422444,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,14-07-2019,22-02-2021,Alive
+55,FEMALE,0.679546306,0.419924537,0.171571399,0.537528041,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,01-04-2019,30-01-2020,Alive
+50,FEMALE,0.589588037,0.605175157,0.317014761,0.636573289,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,24-08-2018,13-10-2018,Alive
+64,FEMALE,0.483104168,0.076983654,0.859741415,0.438988893,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,05-01-2019,06-10-2020,Alive
+66,FEMALE,0.484214328,0.590475082,0.525510364,0.587473327,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,07-10-2018,08-05-2020,Alive
+48,FEMALE,0.635854154,0.500265925,0.439677031,0.547511627,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,17-12-2017,13-04-2020,Alive
+53,FEMALE,0.345487133,0.222081179,0.326245812,0.333566778,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,02-12-2018,11-01-2020,Alive
+49,FEMALE,0.417481676,0.147459558,0.391679753,0.215133775,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,15-01-2019,26-06-2019,Alive
+62,FEMALE,0.591789364,0.507159439,0.443123691,0.454308694,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,17-03-2018,02-05-2020,Alive
+63,FEMALE,0.647386443,0.739575843,0.424141593,0.709446299,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,24-07-2019,05-03-2020,Alive
+66,FEMALE,0.453113798,0.320066744,0.418290149,0.603879192,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,15-07-2018,25-07-2018,Alive
+60,FEMALE,0.651864534,0.628640494,0.401426141,0.709235651,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,26-03-2019,14-07-2020,Dead
+42,FEMALE,0.453576588,0.059021715,0.396715348,0.544544236,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,01-01-2019,22-04-2020,Alive
+49,FEMALE,0.238858274,0.833756759,0.28569933,0.251244734,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,18-08-2018,25-08-2018,Alive
+40,FEMALE,0.663650955,0.615926299,0.540962626,0.460499535,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,05-01-2019,28-01-2020,Dead
+77,FEMALE,0.43236852,0.261417096,0.457145101,0.435530995,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,05-04-2019,17-12-2019,Alive
+45,FEMALE,0.573507207,0.596204459,0.460649602,0.157000602,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,14-07-2019,01-11-2020,Alive
+56,FEMALE,0.479910117,0.652151484,0.329909966,0.681427477,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,20-04-2018,29-01-2019,Alive
+47,FEMALE,0.43317907,0.479608211,0.540337102,0.724845434,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,11-03-2018,20-03-2018,Dead
+72,FEMALE,0.473998181,0.35020418,0.251125419,0.458171472,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,08-10-2017,13-09-2018,Dead
+45,FEMALE,0.414482906,0.145674549,0.542279104,0.760184932,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,26-03-2017,23-09-2020,Alive
+49,FEMALE,0.519766198,0.285400588,0.308492986,0.641875034,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,23-09-2018,04-10-2019,Dead
+63,FEMALE,0.651433845,0.408867524,0.705742253,0.513467746,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,03-08-2019,03-09-2019,Alive
+55,FEMALE,0.575466829,0.52188234,0.272063442,0.594079991,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,05-06-2018,07-12-2019,Alive
+68,FEMALE,0.352651009,0.609443657,0.390994033,0.504284073,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,06-05-2018,06-12-2019,Dead
+65,FEMALE,0.549265957,0.235905846,0.435,0.393026755,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,12-09-2019,13-02-2021,Alive
+54,FEMALE,0.2047777,0.602481665,0.384940327,0.441667123,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,14-06-2019,04-03-2021,Alive
+73,FEMALE,0.548037291,0.648932989,0.350227701,0.457531324,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,10-04-2018,24-09-2018,Alive
+54,FEMALE,0.711283505,0.609991486,0.388240683,0.834491437,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,06-12-2018,15-12-2019,Alive
+85,FEMALE,0.717642181,0.287569078,0.398078936,0.619666794,I,Mucinous Carcinoma,Positive,Positive,Negative,Lumpectomy,01-11-2017,06-12-2018,Alive
+54,FEMALE,0.35539832,0.078357792,0.776094012,0.43744597,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,06-12-2018,20-02-2020,Alive
+50,FEMALE,0.631822802,0.174038389,0.710715034,0.596320512,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,04-06-2017,27-02-2018,Alive
+59,FEMALE,0.659964689,0.691389728,0.335154941,0.239919024,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,30-01-2018,04-06-2024,Dead
+41,FEMALE,0.557838264,0.692531038,0.438241729,0.496651529,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,06-03-2019,25-12-2020,Alive
+58,FEMALE,0.446452838,0.321486534,0.271864531,0.730707994,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,04-02-2019,06-07-2020,Alive
+42,FEMALE,0.526721417,0.289518436,0.721419598,0.449543142,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,04-08-2018,09-08-2020,Alive
+79,FEMALE,0.444574929,0.151100337,0.549356156,0.649160147,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,27-09-2018,20-11-2018,Alive
+58,FEMALE,0.484109999,0.42529326,0.217284338,0.642055589,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,13-08-2017,13-08-2018,Alive
+88,FEMALE,0.628302392,0.34332208,0.20465871,0.361068556,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,24-02-2019,30-06-2020,Alive
+50,FEMALE,1,0.605791464,0.415969954,0.812430924,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,21-11-2017,22-07-2020,Alive
+51,FEMALE,0.623888502,0.831474139,0.738850503,0.605104776,III,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,26-11-2018,01-10-2020,Dead
+40,FEMALE,0.597118667,0.724601854,0.16589196,0.45068392,III,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,20-04-2018,04-08-2019,Alive
+77,FEMALE,0.533104168,0.071996129,0.737227806,0.613525196,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,28-09-2017,28-09-2018,Alive
+59,FEMALE,0.717770585,0.024412625,0.271943049,0.293680582,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,16-11-2018,18-05-2020,Alive
+77,FEMALE,0.664416029,0.524553006,0.579669179,0.650385731,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,22-10-2019,09-02-2021,Alive
+57,FEMALE,0.51651062,0.080026387,0.693572027,0.609492805,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,01-12-2017,08-06-2018,Alive
+71,FEMALE,0.514030817,0.338893797,0.334477073,0.325600481,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,26-05-2017,19-12-2017,Alive
+49,FEMALE,0.498576855,0.387584371,0.381176717,0.703676752,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,17-12-2017,23-02-2018,Alive
+76,FEMALE,0.342627468,0.196325894,0.444452732,0.75947092,III,Infiltrating Lobular Carcinoma,Positive,Positive,Positive,Other,31-01-2019,01-12-2019,Dead
+38,FEMALE,0.405208389,0.748386758,0.455627094,0.270476555,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,03-09-2018,12-06-2019,Alive
+41,FEMALE,0.611823872,0.470546208,0.481134841,0.820643432,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,06-03-2017,09-08-2019,Alive
+78,FEMALE,0.528355893,0.540211782,0.083830611,0.209498277,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,26-11-2018,04-05-2020,Alive
+46,FEMALE,0.599139425,0.128639353,0.3749241,0.566840018,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,24-06-2019,18-03-2020,Alive
+47,FEMALE,0.606085817,0.402622274,0.37420959,0.650530722,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,23-08-2017,28-02-2019,Dead
+50,FEMALE,0.610071692,0.640784034,0.224654523,0.478467473,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,16-04-2018,21-04-2020,Alive
+56,FEMALE,0.666013054,0.17513633,0.375408291,0.588108005,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,25-01-2017,12-07-2017,Alive
+84,FEMALE,0.512086031,0.481434307,0.469488065,0.878043443,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,22-03-2019,15-09-2019,Alive
+69,FEMALE,0.653787919,0.153182087,0.706396566,0.505006292,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,30-04-2018,09-09-2020,Alive
+53,FEMALE,0.476954149,0.829807826,0.506461997,0.609870329,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,03-08-2019,02-08-2020,Alive
+53,FEMALE,0.645251725,0.606270815,0.380035595,0.681498605,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,25-05-2019,09-02-2020,Alive
+47,FEMALE,0.52285592,0.674886383,0.423938599,0.56377551,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,23-10-2018,19-02-2019,Dead
+71,FEMALE,0.685682949,0.165752477,0.362855946,0.497310828,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,10-05-2018,05-07-2019,Alive
+52,FEMALE,0.865336258,0.854779693,0.280200482,0.423931717,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,07-09-2018,13-02-2021,Alive
+64,FEMALE,0.508405115,0.609329526,0.392289573,0.187476063,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,13-08-2019,26-01-2021,Alive
+44,FEMALE,0.83159007,0.411275688,0.345542818,0.513144936,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,06-12-2018,07-09-2020,Alive
+50,FEMALE,0.486597828,0.677625527,0.415947707,0.623190349,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,12-09-2019,21-08-2020,Alive
+56,FEMALE,0.695460382,0.492162623,0.275554858,0.654333315,I,Mucinous Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,25-01-2019,13-02-2021,Alive
+38,FEMALE,0.650569793,0.328975811,0.248290934,0.689423866,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,17-10-2018,02-07-2019,Alive
+51,FEMALE,0.613247017,0.29604673,0.267653371,0.290148821,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,26-05-2018,09-09-2018,Alive
+66,FEMALE,0.611494837,0.520124722,0.336094535,0.0703343,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,31-12-2017,21-02-2021,Dead
+41,FEMALE,0.554882029,0.161426912,0.548178392,0.220468348,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,17-09-2018,17-06-2019,Alive
+49,FEMALE,0.541635012,0.007669604,0.621639447,0.36930842,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,01-05-2019,09-11-2020,Alive
+48,FEMALE,0.401428495,0.08790371,0.397210008,0.11563714,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,11-04-2019,10-08-2020,Alive
+60,FEMALE,0.542159328,0.486798465,0.567718802,0.758135909,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,12-03-2019,17-07-2019,Alive
+52,FEMALE,0.52572896,0.572351076,0.383236495,0.78178038,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,04-07-2019,24-03-2020,Alive
+29,FEMALE,0.545428281,0.437395713,0.263219745,0.605096569,I,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Simple Mastectomy,21-03-2018,15-03-2022,Dead
+42,FEMALE,0.619964154,0.519371458,0.201693363,0.489289818,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,06-11-2018,03-03-2019,Alive
+58,FEMALE,0.427245733,0.293392042,0.271003455,0.451756306,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,09-02-2018,09-02-2018,Dead
+51,FEMALE,0.597904606,0.077609092,1,0.324744214,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,24-02-2019,05-12-2020,Alive
+68,FEMALE,0.747319566,0.548452041,0.32245603,0.87823494,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,07-12-2017,18-07-2018,Dead
+71,FEMALE,0.668728265,0.674270075,0.422413369,0.704781966,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,14-02-2019,03-05-2019,Dead
+79,FEMALE,0.83538869,0.613849114,0.254161432,0.62772884,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,05-04-2019,03-02-2021,Dead
+62,FEMALE,0.755473222,0.337113353,0.430780203,0.63208404,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Simple Mastectomy,15-06-2018,04-07-2018,Alive
+65,FEMALE,0.690206517,0.399246279,0.555140285,0.656513651,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,22-09-2017,25-08-2019,Alive
+53,FEMALE,0.577472045,0.067282518,0.566779209,0.750798818,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,04-08-2018,18-12-2018,Alive
+46,FEMALE,0.714811942,0.081603678,0.282770624,0.661093177,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,27-09-2018,19-05-2022,Alive
+84,MALE,0.551797122,0.616953478,0.410925722,0.565881983,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,18-09-2017,15-11-2021,Alive
+57,FEMALE,0.573698572,0.270620622,0.383767797,0.656434316,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,07-03-2018,11-10-2018,Alive
+90,FEMALE,0.202343374,0.40031911,0.502062395,0.301261148,III,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,19-07-2018,08-09-2018,Alive
+59,FEMALE,0.57520962,0.561645587,0.50892745,0.642033704,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,09-07-2018,09-08-2019,Alive
+52,FEMALE,0.638114601,0.619395882,0.512586369,0.83974394,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Other,12-10-2019,07-11-2020,Alive
+73,FEMALE,0.693694826,0.748706325,0.428983197,0.720129124,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Other,16-05-2018,21-04-2019,Dead
+64,FEMALE,0.834733294,0.790569582,0.291582915,0.736576025,I,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Lumpectomy,02-10-2019,03-02-2021,Alive
+59,FEMALE,0.580278744,0.543087883,0.432409705,0.630798271,II,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Lumpectomy,15-01-2019,27-03-2020,Alive
+41,FEMALE,0.600481515,0.117157772,0.549562919,0.410797724,I,Infiltrating Ductal Carcinoma,Positive,Positive,Positive,Modified Radical Mastectomy,25-07-2018,23-04-2019,Alive
+54,FEMALE,0.775351774,0.598327296,0.338816478,0.78879466,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Simple Mastectomy,26-03-2019,11-10-2019,Dead
+74,FEMALE,0.833853191,0.549091175,0.329991101,0.524615637,II,Infiltrating Lobular Carcinoma,Positive,Positive,Negative,Lumpectomy,26-11-2018,05-12-2018,Alive
+66,FEMALE,0.650307635,0.5429281,0.509377617,0.782828145,II,Infiltrating Ductal Carcinoma,Positive,Positive,Negative,Modified Radical Mastectomy,04-02-2019,10-08-2019,Dead
